@@ -1,8 +1,5 @@
 <template>
-  <div class="more-content">当然可以！让我们一起创作一个以Neopolitan为女主角的短篇小说。请看下面的故事：
-
----
-
+  <div class="more-content">
 ## Neopolitan的色彩人生
 
 ### 第一章：三重奏的开始
